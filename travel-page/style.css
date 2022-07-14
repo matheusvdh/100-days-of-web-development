@@ -1,6 +1,6 @@
 #hero {
   height: 800px;
-  background-image: url(/travel-page/images/ocean.jpg);
+  background-image: url(/images/ocean.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -61,19 +61,18 @@
 
 #highlights {
     padding: 24px;
-    background: linear-gradient(0deg, rgb(227, 255, 253), rgb(202, 243, 240))
+    background: linear-gradient(0deg, rgb(227, 255, 253), rgb(202, 243, 240));
 }
 
 #highlights h2 {
   font-size: 40px;
   color: rgb(59, 65, 64);
-  margin-left: 80px;
   text-align: center;
   text-transform: uppercase;
 }
 
 .destination {
-  margin: 0 20px;
+  margin: 0 40px 0 0;
 }
 
 .destination p {
@@ -89,6 +88,8 @@
   box-shadow: 2px 4px 8px rgb(68, 67, 67);
   border-radius: 10px;
   object-fit: cover;
+  margin-top: 30px;
+ 
 }
 
 .destination strong {
