@@ -1,4 +1,4 @@
-# 100-days-of-web-development
+# 100 Days OF Web Development
 Repositório para as atividades em andamento do curso <a href="https://100daysofwebdevelopment.com">100 Days Of Web Development</a>
 <br/>
 
